@@ -58,7 +58,7 @@ Follow these steps to clone and run the project locally:
 ####  1️⃣ Clone the Repository
 
 ```bash
-  git clone https://github.com/aizocraft/task-manager.git
+  git clone https://github.com/PLP-Full-Stack-Development-MERN/week-3-react-js-assignment-aizocraft.git
 ```
 
 ```bash
