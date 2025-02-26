@@ -61,10 +61,6 @@ Follow these steps to clone and run the project locally:
   git clone https://github.com/PLP-Full-Stack-Development-MERN/week-3-react-js-assignment-aizocraft.git
 ```
 
-```bash
-   cd react-assignment
-```
-
 ####  2️⃣ Install Dependencies
 
 ```bash
